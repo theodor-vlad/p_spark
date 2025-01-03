@@ -9,7 +9,7 @@ on:
       - main
 
 jobs:
-  run-hello-world:
+  build-and-run:
     runs-on: ubuntu-latest
 
     steps:
