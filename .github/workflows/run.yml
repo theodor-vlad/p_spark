@@ -22,4 +22,4 @@ jobs:
         python-version: '3.x'
 
     - name: Run Python script
-      run: python __init__.py
+      run: python hello.py 
