@@ -1,2 +1,5 @@
 1
 pyenv/
+p_spark/__pycache__/*
+hello/__pycache__/*
+hello/migrations/__pycache__/*
