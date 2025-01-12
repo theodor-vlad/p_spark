@@ -70,7 +70,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = "p_spark.wsgi.app"
+WSGI_APPLICATION = "p_spark.wsgi.application"
 
 
 # Database
